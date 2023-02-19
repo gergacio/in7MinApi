@@ -1,1 +1,1 @@
-Demo project for Basic Auth, Users Roles and Authorities,Permission Based Authentication, Cross Site Request Forgery, Form Based Authentication, Database Authentication
+#EdTech app
